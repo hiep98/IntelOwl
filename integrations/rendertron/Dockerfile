@@ -1,4 +1,4 @@
-FROM node:current-slim
+FROM node:17.9-slim
 
 ENV PROJECT_PATH /opt/deploy
 
