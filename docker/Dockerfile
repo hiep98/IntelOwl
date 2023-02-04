@@ -1,4 +1,4 @@
-FROM python:3.11.0a5-slim-bullseye
+FROM python:3.11.1-slim-bullseye
 
 ENV PYTHONUNBUFFERED 1
 ENV DJANGO_SETTINGS_MODULE intel_owl.settings
