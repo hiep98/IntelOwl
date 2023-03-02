@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:rolling
 
 # Step 1: Build and install thug
 
