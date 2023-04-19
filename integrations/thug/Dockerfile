@@ -1,4 +1,4 @@
-FROM ubuntu:rolling
+FROM ubuntu:22.10
 
 # Step 1: Build and install thug
 
